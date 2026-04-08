@@ -1,3 +1,7 @@
 **.FCBak
 **/.*
 !.gitignore
+*.step
+*.stl
+CLAUDE.md
+/BasePanel/__pycache__/tmp_fc_validate.cpython-311.pyc
